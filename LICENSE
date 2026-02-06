@@ -1,0 +1,39 @@
+MIT License
+
+Copyright (c) 2025 Kotoshu Project
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+NOTICE: Frequency Data Attribution
+
+The frequency data contained in the data/ directory is derived from the Kelly
+Project (University of Leeds & University of Gothenburg) and is subject to
+the Kelly Project's terms of use.
+
+Please see data/ATTRIBUTION.md for complete citation information and usage
+terms for the underlying Kelly Project frequency data.
+
+Kelly Project Citation:
+Kilgarriff, A., et al. (2014). Corpus-based vocabulary lists for language
+learners for nine languages. Language Resources and Evaluation, 48(2), 121-163.
+DOI: https://doi.org/10.1015/lre-2014-0012
+
+Kelly Project URL: https://spraakbanken.gu.se/eng/kelly
