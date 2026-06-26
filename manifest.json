@@ -1,0 +1,81 @@
+{
+  "version": 1,
+  "generated_at": "2026-06-26T05:35:32Z",
+  "repo_version": "v1",
+  "resource_count": 8,
+  "language_count": 8,
+  "resources": {
+    "data/ar.json": {
+      "size": 1290566,
+      "sha256": "73a9a362af1e27c7f76dfdb3281fdfb90eb2c175b76d1fdeabd05204a14ae716",
+      "language": "ar",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/el.json": {
+      "size": 1301918,
+      "sha256": "94d70402262b84f46682bab2ec07c99559727a24e3dfbe1fe0c7d3c7033f4656",
+      "language": "el",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/en.json": {
+      "size": 835114,
+      "sha256": "97535823f41aa3f06c2087dfc162aec0a591412b8b95c0594fcbb2cea79b0e61",
+      "language": "en",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/it.json": {
+      "size": 906432,
+      "sha256": "101a817209991737983a411f1cdcaf8d772026c876944631d2bec6ce0f8ebbc7",
+      "language": "it",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/no.json": {
+      "size": 692796,
+      "sha256": "eb6b6e531401dbc337ca8a37bdc366b0be6a37e55d6d9d25000bcf432b3d9c6b",
+      "language": "no",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/ru.json": {
+      "size": 1515557,
+      "sha256": "3634b1a8787c9259f9821a7cba8eff296e0561a292458e6e0731852c66c013ab",
+      "language": "ru",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/sv.json": {
+      "size": 1168179,
+      "sha256": "bbd7d3f378614a508762a0ddb41ca3d1e1902a148da167c605bf36821922d895",
+      "language": "sv",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/zh.json": {
+      "size": 995259,
+      "sha256": "36a1b6ed0e2ece330e7f033d5443bf0769a522204e03eebc1957ede498dcdb7e",
+      "language": "zh",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://spraakbanken.gu.se/eng/kelly",
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    }
+  }
+}
