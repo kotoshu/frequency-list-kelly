@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T12:24:26Z",
+  "generated_at": "2026-09-21T22:43:07Z",
   "repo_version": "v1",
-  "resource_count": 13,
-  "language_count": 13,
+  "resource_count": 16,
+  "language_count": 16,
   "resources": {
     "data/ar.json": {
       "size": 1290566,
@@ -41,6 +41,24 @@
       "source": "https://spraakbanken.gu.se/eng/kelly",
       "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163.; Wikimedia Foundation, CC BY-SA 4.0"
     },
+    "data/es.json": {
+      "size": 4883205,
+      "sha256": "bb146617bec4040c1a0401f064a197f531b235846d2c08957c7132a7675b938a",
+      "language": "es",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); underlying corpora CC BY-SA"
+    },
+    "data/fr.json": {
+      "size": 4864515,
+      "sha256": "ce916ae12b30934272e3b237b430f8fc837e0622aa337a9d344e1faf53617f8a",
+      "language": "fr",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); underlying corpora CC BY-SA"
+    },
     "data/it.json": {
       "size": 906432,
       "sha256": "101a817209991737983a411f1cdcaf8d772026c876944631d2bec6ce0f8ebbc7",
@@ -68,14 +86,23 @@
       "source": "https://spraakbanken.gu.se/eng/kelly",
       "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
     },
+    "data/pt.json": {
+      "size": 4859082,
+      "sha256": "ad8fc5c3b6b7d4d3db65dd25cad5dea725f513372615305441342105bde1cedb",
+      "language": "pt",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); underlying corpora CC BY-SA"
+    },
     "data/ru.json": {
-      "size": 1515557,
-      "sha256": "3634b1a8787c9259f9821a7cba8eff296e0561a292458e6e0731852c66c013ab",
+      "size": 6574351,
+      "sha256": "3e99c5704464734811e580127242dc8f67cf0b89a934d13f6c1afa8d6762a67c",
       "language": "ru",
       "type": "frequency",
       "license": "CC BY-SA 3.0",
       "source": "https://spraakbanken.gu.se/eng/kelly",
-      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+      "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163.; wordfreq (MIT), data CC BY-SA"
     },
     "data/sv.json": {
       "size": 1168179,
