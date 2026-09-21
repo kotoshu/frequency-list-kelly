@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T11:18:49Z",
+  "generated_at": "2026-09-21T12:24:26Z",
   "repo_version": "v1",
-  "resource_count": 9,
-  "language_count": 9,
+  "resource_count": 13,
+  "language_count": 13,
   "resources": {
     "data/ar.json": {
       "size": 1290566,
@@ -50,6 +50,15 @@
       "source": "https://spraakbanken.gu.se/eng/kelly",
       "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
     },
+    "data/ja.json": {
+      "size": 4276972,
+      "sha256": "f9b5dcd376fe969fc78135c8ec4a3429142181aeb6f003d9dedf0381fee64ac4",
+      "language": "ja",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); data compiled from OpenSubtitles 2018, Twitter, GlobalVoices, Wikipedia (CC BY-SA)"
+    },
     "data/no.json": {
       "size": 692796,
       "sha256": "eb6b6e531401dbc337ca8a37bdc366b0be6a37e55d6d9d25000bcf432b3d9c6b",
@@ -76,6 +85,33 @@
       "license": "CC BY-SA 3.0",
       "source": "https://spraakbanken.gu.se/eng/kelly",
       "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/zh-Hans-CN.json": {
+      "size": 4367286,
+      "sha256": "2ffe593309d5200d0cc165c491694fe9404e112a0ae73429f2639fbc36e51f2d",
+      "language": "zh-Hans-CN",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq; https://www.mdbg.net/chinese/dictionary?page=cedict",
+      "citation": "wordfreq (MIT); CC-CEDICT, CC BY-SA 4.0"
+    },
+    "data/zh-Hant-TW.json": {
+      "size": 2937195,
+      "sha256": "0dcb2f4dcf9440445d868fe593cd01b6ac495f231861d60bda68b5bc703c7fdb",
+      "language": "zh-Hant-TW",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq; https://github.com/g0v/moedict-data",
+      "citation": "wordfreq (MIT); 台灣教育部開放資料 via g0v/moedict-data; CC-CEDICT, CC BY-SA 4.0"
+    },
+    "data/zh-Hant.json": {
+      "size": 2642300,
+      "sha256": "01bd6127f59d73737ca5b16afa7d8fe3f8ec502ff365248850fb1c4cf53a805d",
+      "language": "zh-Hant",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq; https://www.mdbg.net/chinese/dictionary?page=cedict",
+      "citation": "wordfreq (MIT); CC-CEDICT, CC BY-SA 4.0"
     },
     "data/zh.json": {
       "size": 995259,
