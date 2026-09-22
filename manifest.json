@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-09-22T04:41:18Z",
+  "generated_at": "2026-09-22T11:36:06Z",
   "repo_version": "v1",
-  "resource_count": 16,
-  "language_count": 16,
+  "resource_count": 18,
+  "language_count": 18,
   "resources": {
     "data/ar.json": {
       "size": 1290566,
@@ -77,6 +77,15 @@
       "source": "https://github.com/rspeer/wordfreq",
       "citation": "wordfreq (MIT); data compiled from OpenSubtitles 2018, Twitter, GlobalVoices, Wikipedia (CC BY-SA)"
     },
+    "data/nl.json": {
+      "size": 4915061,
+      "sha256": "fa9e0e141ca84f66c4ce550100cf33cfefe411f821809bc963e2e9de507bd8cf",
+      "language": "nl",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); underlying corpora CC BY-SA"
+    },
     "data/no.json": {
       "size": 692796,
       "sha256": "eb6b6e531401dbc337ca8a37bdc366b0be6a37e55d6d9d25000bcf432b3d9c6b",
@@ -85,6 +94,15 @@
       "license": "CC BY-SA 3.0",
       "source": "https://spraakbanken.gu.se/eng/kelly",
       "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
+    },
+    "data/pl.json": {
+      "size": 4945250,
+      "sha256": "3f908928a65846f63f2466dfafb75d5abbd1315f980cb8c27ac014d299cacd17",
+      "language": "pl",
+      "type": "frequency",
+      "license": "CC BY-SA 3.0",
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); underlying corpora CC BY-SA"
     },
     "data/pt.json": {
       "size": 4859082,
