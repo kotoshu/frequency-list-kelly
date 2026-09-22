@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generated_at": "2026-09-21T22:43:07Z",
+  "generated_at": "2026-09-22T04:41:18Z",
   "repo_version": "v1",
   "resource_count": 16,
   "language_count": 16,
@@ -15,13 +15,13 @@
       "citation": "Kilgarriff, A., Charalabopoulou, F., Gavrilidou, M., Johannessen, L. B., Khalil, S., Kokkinakis, S., Lew, R., Sharoff, S., Vadlapudi, R., Volodina, E. (2014). Corpus-based vocabulary lists for language learners for nine languages. Language Resources and Evaluation, 48(2), 121-163."
     },
     "data/de.json": {
-      "size": 1775795,
-      "sha256": "97435c3ba85b8dbe8d2c25e897477adc46d5f9b6e4156d52b8707ac3ab9f72f3",
+      "size": 5008603,
+      "sha256": "41782d9fa1817a931b1d98b48885cc780d8de912eac5d3951c60923dd76d8e33",
       "language": "de",
       "type": "frequency",
       "license": "CC BY-SA 3.0",
-      "source": "https://github.com/kotoshu/models-fasttext-onnx",
-      "citation": "Wikimedia Foundation, CC BY-SA 4.0"
+      "source": "https://github.com/rspeer/wordfreq",
+      "citation": "wordfreq (MIT); underlying corpora CC BY-SA"
     },
     "data/el.json": {
       "size": 1301918,
