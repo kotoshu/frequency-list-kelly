@@ -1,8 +1,8 @@
 {
  "version": 1,
- "generated_at": "2026-09-29T08:34:02Z",
+ "generated_at": "2026-09-29T14:50:31Z",
  "repo_version": "v1",
- "resource_count": 19,
+ "resource_count": 21,
  "language_count": 18,
  "resources": {
   "data/ar.json": {
@@ -173,6 +173,20 @@
    "language": "ar",
    "type": "translit",
    "description": "Fold-normalized ALA-LC Arab-Latn-1997 romanization keys -> native words (retrieval companion to the ar frequency list; scheme punctuation stripped)"
+  },
+  "data/ru.translit.json": {
+   "size": 4537004,
+   "sha256": "72fa605267883fe5e585a148e1fc78b1391e1661a6fe875bb7d0d36c6e0aec32",
+   "language": "ru",
+   "type": "translit",
+   "description": "Fold-normalized alalc-rus-Cyrl-Latn-1997 romanization keys -> native words"
+  },
+  "data/el.translit.json": {
+   "size": 2073256,
+   "sha256": "dc438f43fd987caf54444a20ee4a27f469b8be864a203a45ad78a2e1a3aad1ef",
+   "language": "el",
+   "type": "translit",
+   "description": "Fold-normalized alalc-ell-Grek-Latn-1997 romanization keys -> native words"
   }
  }
 }
